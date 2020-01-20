@@ -1,0 +1,5 @@
+cn\enjoy\service\IProductClientService.class
+cn\enjoy\service\impl\ProductServiceFactory$1.class
+cn\enjoy\config\FeignClientConfig.class
+cn\enjoy\FeignConsumerApp.class
+cn\enjoy\service\impl\ProductServiceFactory.class
